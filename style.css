@@ -1,0 +1,31 @@
+.header {
+    text-align: left;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+}
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+#content img {
+    width: 100%;
+    height: auto;
+}
+#trivia {
+    margin-top: 20px;
+}
+#trivia ul {
+    list-style: none;
+    padding: 0;
+}
+#trivia li {
+    margin-bottom: 10px;
+}
